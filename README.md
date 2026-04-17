@@ -26,10 +26,10 @@
  Maksym Shymchenko · MS
  ───────────────────────────────────
  Role     │ Full-Stack .NET Developer
- Study    │ B.Sc. Informatics @ GUT
+ Study    │ B.Sc. in Informatics (Computer Science), Gdańsk University of Technology
  Thesis   │ Feb 2027 deadline
  Origin   │ Ukraine 🇺🇦 → Poland 🇵🇱
- Focus    │ ALGO/STRUCTURES · SYSTEM DESIGN · SECURITY · AI · ARCHITECTURE
+ Focus    │ Algorithms & Data Structures · System Design · Security · Artificial Intelligence · Software Architecture
 ```
 
 </td>
@@ -149,15 +149,6 @@
 
 ---
 
-## &nbsp;Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Makstvell/Makstvell/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
