@@ -97,7 +97,6 @@
 ![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![DeepSORT](https://img.shields.io/badge/DeepSORT-FF6B35?style=flat-square)
 
 </details>
 
