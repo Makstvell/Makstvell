@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/maksym-shymchenko-b08884265/)
+## Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/maksym-shymchenko-b08884265/)
 
 ## LeetCode
 
