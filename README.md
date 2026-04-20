@@ -33,11 +33,6 @@
 ```
 
 </td>
-<td width="48%" valign="top">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makstvell&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0071e3&icon_color=0071e3&text_color=f5f5f7&count_private=true&include_all_commits=true)
-
-</td>
 </tr>
 </table>
 
