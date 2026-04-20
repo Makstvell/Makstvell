@@ -97,29 +97,6 @@
 
 ---
 
-## &nbsp;GitHub Stats
-
-<div align="center">
-
-<table><tr>
-<td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makstvell&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0071e3&icon_color=0071e3&text_color=f5f5f7&count_private=true&include_all_commits=true)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Makstvell&layout=compact&hide_border=true&bg_color=0d1117&title_color=0071e3&text_color=f5f5f7&langs_count=8)
-
-</td>
-</tr></table>
-
-![Streak](https://streak-stats.demolab.com?user=Makstvell&theme=dark&hide_border=true&background=0D1117&ring=0071e3&fire=0071e3&currStreakLabel=f5f5f7)
-
-</div>
-
----
-
 ## &nbsp;LeetCode
 
 <div align="center">
