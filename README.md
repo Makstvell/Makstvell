@@ -106,7 +106,16 @@
 </div>
 
 ---
+## &nbsp;Public Portfolio
 
+| | Site |
+|:---:|---|
+| 💎 | **[pinky.diamonds](https://www.pinky.diamonds/)** |
+| 🎫 | **[eventik.presentation](https://eventik.presentation.meanwhileorbit.com/)** |
+| 💸 | **[debtapp](https://debtapp.meanwhileorbit.com/)** |
+| 🔥 | **[Molten Moment](https://makstvell.github.io/Molten-Moment/)** |
+
+---
 ## &nbsp;Current Projects
 
 | | Project | Stack | Status |
