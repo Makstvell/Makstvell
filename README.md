@@ -124,7 +124,7 @@
 | 🧠 | **NeetCode 150** | C# · Algorithms · DS | 🏃 Ongoing |
 | 📊 | **GraphQL API** | .NET · HotChocolate · PostgreSQL | ✅ Shipped |
 | 👁️ | **Computer Vision Pipeline** | YOLOv8 · ML.NET | 🔬 Exploring |
-| 📄 | **KSeF Integration** | .NET · XML · REST | ✅ Shipped |
+| 📄 | **ERP -> KSeF Integration** | .NET · XML · REST | ✅ Shipped |
 | 🏗️ | **CI/CD Pipeline** | Gitea · Woodpecker CI · Docker | ✅ Shipped |
 
 ---
